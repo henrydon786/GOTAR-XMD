@@ -10,13 +10,13 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "malvin~ku1RCLKb#qTttaZ2cePUAilKI-Ul2uVeeWNESGzIRxxmd-GXVujA"
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃"
+      "value": "HENRY XMD"
     }, 
       
     "PREFIX": {
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY 𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃 🖤*"
+      "value": "*SEEN YOUR STATUS BY HENRY XMD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "YOUR NAME"
+      "value": "HENRY DWN"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "509xxxxxx"
+      "value": "919235741670"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃"
+      "value": "HENRY-𝐗"
 
       }, 
 
@@ -138,7 +138,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴏᴛᴀʀ ᴛᴇᴄʜ*"
+      "value": "> *THIS WHATSAPP BOT MADE BY HENRY*"
     },
 
       "DELETE_LINKS": {
